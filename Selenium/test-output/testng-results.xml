@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-06T19:44:05 IST" name="Default suite" finished-at="2023-09-06T19:44:50 IST" duration-ms="45609">
+    <groups>
+    </groups>
+    <test started-at="2023-09-06T19:44:05 IST" name="Default test" finished-at="2023-09-06T19:44:50 IST" duration-ms="45609">
+      <class name="sel1.Loginluma">
+        <test-method signature="myLoginTest()[pri:0, instance:sel1.Loginluma@2cf3d63b]" started-at="2023-09-06T19:44:05 IST" name="myLoginTest" finished-at="2023-09-06T19:44:50 IST" duration-ms="45539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myLoginTest -->
+      </class> <!-- sel1.Loginluma -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
